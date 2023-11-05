@@ -1,0 +1,8 @@
+.group-container {
+  width: 100%;
+  display: flex;
+  overflow-x: scroll;
+}
+.columns {
+  padding: 10px;
+}
